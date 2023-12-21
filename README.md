@@ -12,3 +12,5 @@ Blog : [naver.com](https://naver.com) - naver.com
 |Github|https://github.com|
 
 <img src="https://www.kali.org/images/notebook-kali-2022.1.jpg">
+hello my security
+>>>>>>> .theirs
